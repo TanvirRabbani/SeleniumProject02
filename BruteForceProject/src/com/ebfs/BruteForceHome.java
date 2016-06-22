@@ -6,6 +6,7 @@ public class BruteForceHome {
 		// TODO Auto-generated method stub
 		System.out.println("Test");
 		System.out.println("THis is second line of code");
+		System.out.println("This is 3rd Line from Ashi, fouZia, Mustafa, Mehir and Adhora");
 	}
 
 }
